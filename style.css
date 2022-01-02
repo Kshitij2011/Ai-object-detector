@@ -1,0 +1,28 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 24px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 15px 15px 15px gold;
+border-radius: 12px;
+margin-top: 180px;
+}
+
+.form-group{
+    color: gold;
+}
